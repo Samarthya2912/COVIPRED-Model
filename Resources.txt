@@ -1,0 +1,14 @@
+Data set: https://github.com/nshomron/covidpred
+
+Logistic Regression: https://github.com/diannekrouse/LRPython/blob/master/LogisticRegression.ipynb
+
+Saving trained model: 
+https://machinelearningmastery.com/save-load-machine-learning-models-python-scikit-learn/
+
+Confusion matrix: 
+https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62
+
+Pandas:
+https://pandas.pydata.org/
+
+
